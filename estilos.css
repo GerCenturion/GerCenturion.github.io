@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(228, 167, 167);
+    color: #000;
+  }
+  
+  .dark-mode {
+    background-color: rgb(49, 38, 38);
+    color: #fff;
+  }
+
+  .fotocv {
+    text-align: end;
+  }
+
+  .icono {
+    font-size: 80px;
+    text-align: end;
+
+  }
+h1 {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-style:oblique
+  }
+ 
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-style:oblique 
+  }
+  
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: small;
+  }   
